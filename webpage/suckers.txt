@@ -1,0 +1,10 @@
+Ryan;MA;1234123412341234;visa
+Kevin W;MF;5963109385987345;mastercard
+Kimberly Todd;MC;7328904328904902;mastercard
+Marty Stepp;MC;4444100020003000;	
+Navruzbek;MA;1234567890;Visa
+Nazur;MA;0987654321;Visa
+Bedilbek;MA;234567882345;Visa
+kamr;MH;2345665634;mastercard
+hjdf;MA;dfsdf;visa
+dhfsdkjf;MA;2356767454;mastercard
